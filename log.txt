@@ -1,0 +1,79 @@
+my_http_server_log_file:
+	Website path: C:\Users\Geco\PycharmProjects\Http\webroot\
+	Default URL: C:\Users\Geco\PycharmProjects\Http\webroot\index.html
+
+2018-06-24 05:48:53,719  INFO: Listening on port 80.
+2018-06-24 05:48:54,611  INFO: Connection to ('127.0.0.1', 62345) accepted, socket to client created.
+2018-06-24 05:48:54,612  INFO: Request found to be valid
+	Method: GET
+	Resource: /calculate-area?height=3&width=4
+2018-06-24 05:48:54,614  INFO: Listening on port 80.
+2018-06-24 05:48:54,614  INFO: Connection to ('127.0.0.1', 62346) accepted, socket to client created.
+2018-06-24 05:49:01,505  INFO: Request found to be valid
+	Method: GET
+	Resource: /calculate-next?height=3&width=4
+2018-06-24 05:49:01,505  INFO: Listening on port 80.
+2018-06-24 05:49:01,505  INFO: Connection to ('127.0.0.1', 62347) accepted, socket to client created.
+2018-06-24 05:49:05,220  CRITICAL: 'NoneType' object has no attribute 'group'
+	Resource: C:\Users\Geco\PycharmProjects\Http\webroot\index.html
+2018-06-24 05:49:05,220  INFO: Listening on port 80.
+2018-06-24 05:49:05,454  INFO: Connection to ('127.0.0.1', 62348) accepted, socket to client created.
+2018-06-24 05:49:05,454  INFO: Request found to be valid
+	Method: GET
+	Resource: /s
+2018-06-24 05:49:05,454  INFO: No parameters sent.
+2018-06-24 05:49:05,456  WARNING: 404 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\s not found in server:
+2018-06-24 05:49:05,456  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\s
+2018-06-24 05:49:05,456  INFO: Listening on port 80.
+2018-06-24 05:49:08,595  INFO: Connection to ('127.0.0.1', 62349) accepted, socket to client created.
+2018-06-24 05:49:08,595  INFO: No parameters sent.
+2018-06-24 05:49:08,595  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\index.html found in server.
+2018-06-24 05:49:08,595  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\index.html
+2018-06-24 05:49:08,595  INFO: Listening on port 80.
+2018-06-24 05:49:08,618  INFO: Connection to ('127.0.0.1', 62350) accepted, socket to client created.
+2018-06-24 05:49:08,618  INFO: Request found to be valid
+	Method: GET
+	Resource: /css/doremon.css
+2018-06-24 05:49:08,619  INFO: No parameters sent.
+2018-06-24 05:49:08,619  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\css\doremon.css found in server.
+2018-06-24 05:49:08,619  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\css\doremon.css
+2018-06-24 05:49:08,621  INFO: Listening on port 80.
+2018-06-24 05:49:08,621  INFO: Connection to ('127.0.0.1', 62351) accepted, socket to client created.
+2018-06-24 05:49:08,621  INFO: Request found to be valid
+	Method: GET
+	Resource: /js/jquery.min.js
+2018-06-24 05:49:08,621  INFO: No parameters sent.
+2018-06-24 05:49:08,621  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\js\jquery.min.js found in server.
+2018-06-24 05:49:08,621  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\js\jquery.min.js
+2018-06-24 05:49:08,621  INFO: Listening on port 80.
+2018-06-24 05:49:08,650  INFO: Connection to ('127.0.0.1', 62353) accepted, socket to client created.
+2018-06-24 05:49:08,651  INFO: Request found to be valid
+	Method: GET
+	Resource: /js/box.js
+2018-06-24 05:49:08,651  INFO: No parameters sent.
+2018-06-24 05:49:08,651  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\js\box.js found in server.
+2018-06-24 05:49:08,651  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\js\box.js
+2018-06-24 05:49:08,651  INFO: Listening on port 80.
+2018-06-24 05:49:08,651  INFO: Connection to ('127.0.0.1', 62354) accepted, socket to client created.
+2018-06-24 05:49:08,651  INFO: Request found to be valid
+	Method: GET
+	Resource: /js/submit.js
+2018-06-24 05:49:08,651  INFO: No parameters sent.
+2018-06-24 05:49:08,651  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\js\submit.js found in server.
+2018-06-24 05:49:08,651  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\js\submit.js
+2018-06-24 05:49:08,653  INFO: Listening on port 80.
+2018-06-24 05:49:09,119  INFO: Connection to ('127.0.0.1', 62352) accepted, socket to client created.
+2018-06-24 05:49:09,119  INFO: Request found to be valid
+	Method: GET
+	Resource: /imgs/abstract.jpg
+2018-06-24 05:49:09,119  INFO: No parameters sent.
+2018-06-24 05:49:09,121  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\imgs\abstract.jpg found in server.
+2018-06-24 05:49:09,121  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\imgs\abstract.jpg
+2018-06-24 05:49:09,121  INFO: Listening on port 80.
+2018-06-24 05:49:09,151  INFO: Connection to ('127.0.0.1', 62355) accepted, socket to client created.
+2018-06-24 05:49:11,161  CRITICAL: 'NoneType' object has no attribute 'group'
+	Resource: C:\Users\Geco\PycharmProjects\Http\webroot\index.html
+2018-06-24 05:49:11,161  INFO: No parameters sent.
+2018-06-24 05:49:11,161  INFO: 200 Resource C:\Users\Geco\PycharmProjects\Http\webroot\\imgs\abstract.jpg found in server.
+2018-06-24 05:49:11,161  INFO: Response sent to server: C:\Users\Geco\PycharmProjects\Http\webroot\\imgs\abstract.jpg
+2018-06-24 05:49:11,161  INFO: Listening on port 80.
